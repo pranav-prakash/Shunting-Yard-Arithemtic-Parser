@@ -1,0 +1,117 @@
+TArithemtic Parser Shunting Yard
+v6
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/Arithemtic\ Parser\ Shunting\ Yard.build/Debug/Arithemtic\ Parser\ Shunting\ Yard.build/Objects-normal/x86_64/main.o /Users/cs/Documents/Xcode/Arithemtic\ Parser\ Shunting\ Yard/Arithemtic\ Parser\ Shunting\ Yard/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/cs/Documents/Xcode/Arithemtic\ Parser\ Shunting\ Yard/Build/Products/Debug/Arithemtic\ Parser\ Shunting\ Yard normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c00000000530295C100000000000000AA
+t1392678337
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000539B6BE6000000000000044C
+t1402694630
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000539B6BE600000000000001DE
+t1402694630
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000539B6C130000000000000ADC
+t1402694675
+s2780
+
+N/Users/cs/Documents/Xcode/Arithemtic Parser Shunting Yard/Arithemtic Parser Shunting Yard/main.cpp
+c000000005519F0540000000000001F04
+t1427763284
+s7940
+
+N/Users/cs/Documents/Xcode/Arithemtic Parser Shunting Yard/Build/Intermediates/Arithemtic Parser Shunting Yard.build/Debug/Arithemtic Parser Shunting Yard.build/Objects-normal/x86_64/Arithemtic Parser Shunting Yard.LinkFileList
+c000000005519F05400000000000000BD
+t1427763284
+s189
+
+N/Users/cs/Documents/Xcode/Arithemtic Parser Shunting Yard/Build/Intermediates/Arithemtic Parser Shunting Yard.build/Debug/Arithemtic Parser Shunting Yard.build/Objects-normal/x86_64/main.o
+t1427763286
+s660300
+
+N/Users/cs/Documents/Xcode/Arithemtic Parser Shunting Yard/Build/Products/Debug/Arithemtic Parser Shunting Yard
+t2
+s0
+
+CBuild AST from /Users/cs/Documents/Xcode/Arithemtic\ Parser\ Shunting\ Yard/Arithemtic\ Parser\ Shunting\ Yard/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies33dd27d427caba41^410d37d427caba41^---0#1#1#--18"Check dependencies36"5DED55E9-74C1-4A73-A8BE-117E62F4F388-
+
+CCompileC Build/Intermediates/Arithemtic\ Parser\ Shunting\ Yard.build/Debug/Arithemtic\ Parser\ Shunting\ Yard.build/Objects-normal/x86_64/main.o /Users/cs/Documents/Xcode/Arithemtic\ Parser\ Shunting\ Yard/Arithemtic\ Parser\ Shunting\ Yard/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s449456084.228825
+e449456086.600380
+r1
+xCompileC
+xBuild/Intermediates/Arithemtic Parser Shunting Yard.build/Debug/Arithemtic Parser Shunting Yard.build/Objects-normal/x86_64/main.o
+x/Users/cs/Documents/Xcode/Arithemtic Parser Shunting Yard/Arithemtic Parser Shunting Yard/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Documents/Xcode/Arithemtic Parser Shunting Yard/Arithemtic Parser Shunting Yard/main.cpp
+o/Users/cs/Documents/Xcode/Arithemtic Parser Shunting Yard/Arithemtic Parser Shunting Yard/main.cpp:14:11: warning: unused variable 'RIGHT_ASSOC' [-Wunused-const-variable]
+oconst int RIGHT_ASSOC = 1;
+o          ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/cs/Documents/Xcode/Arithemtic Parser Shunting Yard/Arithemtic Parser Shunting Yard/main.cpp251"CompileC Build/Intermediates/Arithemtic\ Parser\ Shunting\ Yard.build/Debug/Arithemtic\ Parser\ Shunting\ Yard.build/Objects-normal/x86_64/main.o Arithemtic\ Parser\ Shunting\ Yard/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler05f83ad427caba41^eeb499d627caba41^-231"/Users/cs/Documents/Xcode/Arithemtic Parser Shunting Yard/Arithemtic Parser Shunting Yard/main.cpp:14:11: warning: unused variable 'RIGHT_ASSOC' [-Wunused-const-variable]const int RIGHT_ASSOC = 1;          ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@29"Unused variable 'RIGHT_ASSOC'-449456086#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@117"file:///Users/cs/Documents/Xcode/Arithemtic%20Parser%20Shunting%20Yard/Arithemtic%20Parser%20Shunting%20Yard/main.cpp0000000000000000^13#10#13#10#222#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@117"file:///Users/cs/Documents/Xcode/Arithemtic%20Parser%20Shunting%20Yard/Arithemtic%20Parser%20Shunting%20Yard/main.cpp0000000000000000^3896"CompileC Build/Intermediates/Arithemtic\ Parser\ Shunting\ Yard.build/Debug/Arithemtic\ Parser\ Shunting\ Yard.build/Objects-normal/x86_64/main.o Arithemtic\ Parser\ Shunting\ Yard/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/cs/Documents/Xcode/Arithemtic Parser Shunting Yard"    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/cs/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/cs/Documents/Xcode/Arithemtic\ Parser\ Shunting\ Yard/Build/Intermediates/Arithemtic\ Parser\ Shunting\ Yard.build/Debug/Arithemtic\ Parser\ Shunting\ Yard.build/Arithemtic\ Parser\ Shunting\ Yard-generated-files.hmap -I/Users/cs/Documents/Xcode/Arithemtic\ Parser\ Shunting\ Yard/Build/Intermediates/Arithemtic\ Parser\ Shunting\ Yard.build/Debug/Arithemtic\ Parser\ Shunting\ Yard.build/Arithemtic\ Parser\ Shunting\ Yard-own-target-headers.hmap -I/Users/cs/Documents/Xcode/Arithemtic\ Parser\ Shunting\ Yard/Build/Intermediates/Arithemtic\ Parser\ Shunting\ Yard.build/Debug/Arithemtic\ Parser\ Shunting\ Yard.build/Arithemtic\ Parser\ Shunting\ Yard-all-target-headers.hmap -iquote /Users/cs/Documents/Xcode/Arithemtic\ Parser\ Shunting\ Yard/Build/Intermediates/Arithemtic\ Parser\ Shunting\ Yard.build/Debug/Arithemtic\ Parser\ Shunting\ Yard.build/Arithemtic\ Parser\ Shunting\ Yard-project-headers.hmap -I/Users/cs/Documents/Xcode/Arithemtic\ Parser\ Shunting\ Yard/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Documents/Xcode/Arithemtic\ Parser\ Shunting\ Yard/Build/Intermediates/Arithemtic\ Parser\ Shunting\ Yard.build/Debug/Arithemtic\ Parser\ Shunting\ Yard.build/DerivedSources/x86_64 -I/Users/cs/Documents/Xcode/Arithemtic\ Parser\ Shunting\ Yard/Build/Intermediates/Arithemtic\ Parser\ Shunting\ Yard.build/Debug/Arithemtic\ Parser\ Shunting\ Yard.build/DerivedSources -F/Users/cs/Documents/Xcode/Arithemtic\ Parser\ Shunting\ Yard/Build/Products/Debug -MMD -MT dependencies -MF /Users/cs/Documents/Xcode/Arithemtic\ Parser\ Shunting\ Yard/Build/Intermediates/Arithemtic\ Parser\ Shunting\ Yard.build/Debug/Arithemtic\ Parser\ Shunting\ Yard.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/cs/Documents/Xcode/Arithemtic\ Parser\ Shunting\ Yard/Build/Intermediates/Arithemtic\ Parser\ Shunting\ Yard.build/Debug/Arithemtic\ Parser\ Shunting\ Yard.build/Objects-normal/x86_64/main.dia -c /Users/cs/Documents/Xcode/Arithemtic\ Parser\ Shunting\ Yard/Arithemtic\ Parser\ Shunting\ Yard/main.cpp -o /Users/cs/Documents/Xcode/Arithemtic\ Parser\ Shunting\ Yard/Build/Intermediates/Arithemtic\ Parser\ Shunting\ Yard.build/Debug/Arithemtic\ Parser\ Shunting\ Yard.build/Objects-normal/x86_64/main.o36"2544E23A-2482-4453-83C4-BE454D8C0BC3-
+bF79CDD61-9095-44C4-9719-769DEAC09000
+
+CLd /Users/cs/Documents/Xcode/Arithemtic\ Parser\ Shunting\ Yard/Build/Products/Debug/Arithemtic\ Parser\ Shunting\ Yard normal x86_64
+s449456086.601137
+e449456087.172815
+r1
+xLd
+x/Users/cs/Documents/Xcode/Arithemtic Parser Shunting Yard/Build/Products/Debug/Arithemtic Parser Shunting Yard
+xnormal
+xx86_64
+d/Users/cs/Documents/Xcode/Arithemtic Parser Shunting Yard/Build/Intermediates/Arithemtic Parser Shunting Yard.build/Debug/Arithemtic Parser Shunting Yard.build/Objects-normal/x86_64/Arithemtic Parser Shunting Yard.LinkFileList
+d/Users/cs/Documents/Xcode/Arithemtic Parser Shunting Yard/Build/Intermediates/Arithemtic Parser Shunting Yard.build/Debug/Arithemtic Parser Shunting Yard.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Link /Users/cs/Documents/Xcode/Arithemtic Parser Shunting Yard/Build/Products/Debug/Arithemtic Parser Shunting Yard72"Ld Build/Products/Debug/Arithemtic\ Parser\ Shunting\ Yard normal x86_6450fb99d627caba41^c93e2cd727caba41^---0#0#1#--1261"Ld Build/Products/Debug/Arithemtic\ Parser\ Shunting\ Yard normal x86_64    cd "/Users/cs/Documents/Xcode/Arithemtic Parser Shunting Yard"    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/cs/Documents/Xcode/Arithemtic\ Parser\ Shunting\ Yard/Build/Products/Debug -F/Users/cs/Documents/Xcode/Arithemtic\ Parser\ Shunting\ Yard/Build/Products/Debug -filelist /Users/cs/Documents/Xcode/Arithemtic\ Parser\ Shunting\ Yard/Build/Intermediates/Arithemtic\ Parser\ Shunting\ Yard.build/Debug/Arithemtic\ Parser\ Shunting\ Yard.build/Objects-normal/x86_64/Arithemtic\ Parser\ Shunting\ Yard.LinkFileList -mmacosx-version-min=10.9 -stdlib=libc++ -Xlinker -dependency_info -Xlinker /Users/cs/Documents/Xcode/Arithemtic\ Parser\ Shunting\ Yard/Build/Intermediates/Arithemtic\ Parser\ Shunting\ Yard.build/Debug/Arithemtic\ Parser\ Shunting\ Yard.build/Objects-normal/x86_64/Arithemtic\ Parser\ Shunting\ Yard_dependency_info.dat -o /Users/cs/Documents/Xcode/Arithemtic\ Parser\ Shunting\ Yard/Build/Products/Debug/Arithemtic\ Parser\ Shunting\ Yard36"431D2E7F-F757-4E76-B55E-D8116343EEC9-
+bF79CDD61-9095-44C4-9719-769DEAC09000
+
